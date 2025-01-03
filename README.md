@@ -56,7 +56,7 @@ An e-commerce site for Nike sneakers built with the new Next.js 13 Beta (and oth
 - To clone:
 
 ```bash
-git clone https://github.com/amirfakhrullah/ecommerce-next13beta.git
+git clone https://github.com/pyindent/ecommerce.git
 ```
 
 - Create and set up the `.env` file, refer to `.env.sample` for the required keys
